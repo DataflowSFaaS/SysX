@@ -1,0 +1,25 @@
+# SysX
+# networking service
+uvloop==0.20.0
+msgspec==0.18.6
+cloudpickle==3.0.0
+mmh3==5.0.0
+# monitoring service
+# psutil==5.9.2
+# Kafka
+aiokafka==0.11.0
+confluent-kafka==2.5.3
+# snapshots
+minio==7.2.8
+# deathstar
+geopy
+# shopping cart demo
+sanic==24.6.0
+aiohttp==3.10.8
+locust==2.31.8
+# Plots and demo
+pandas
+tqdm
+numpy
+scipy
+matplotlib
